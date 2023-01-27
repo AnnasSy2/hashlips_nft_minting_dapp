@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0xcc38B14DEFb92F634E13C8682b0F56695cEFB78a",
+  "CONTRACT_ADDRESS": "0x845dF279c4e1fa66B0d6A0D1cE9213886D0Bd054",
   "SCAN_LINK": "https://goerli.etherscan.io/address/0xaB0e26f060b0A33bf922C41e813e3b89aF04b2A3",
   "NETWORK": {
     "NAME": "Goerli",
     "SYMBOL": "Goerli",
     "ID": 5
   },
-  "NFT_NAME": "Skullsinsfinal",
-  "SYMBOL": "SSF",
+  "NFT_NAME": "SkullsinsfinalTest",
+  "SYMBOL": "SSFT",
   "MAX_SUPPLY": 35,
   "WEI_COST": 20000000000000000,
   "DISPLAY_COST": 0.02,
